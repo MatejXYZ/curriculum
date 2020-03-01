@@ -3021,6 +3021,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [stancic's Solution (Difficult)](https://github.com/stancic/google-search-page) - [View in Browser](https://stancic.github.io/google-search-page/)
 * [headnodic's Solution (Easy)](https://github.com/headnodic/google-homepage-clone) - [View in Browser](https://headnodic.github.io/google-homepage-clone/)
 * [Oluwatobi's Solution (Easy)](https://github.com/Oluwatobi-S/google-homepage) - [View in Browser](https://oluwatobi-s.github.io/google-homepage/)
+* [MatejXYZ's Solution (Difficult)](https://github.com/MatejXYZ/Google-search-results-clone) - [View in Browser](https://matejxyz.github.io/Google-search-results-clone/)
 </details>
 
 ### Additional Resources
